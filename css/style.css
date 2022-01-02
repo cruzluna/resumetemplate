@@ -95,6 +95,19 @@
     display:table;
  }
 
+ .section-image2 {
+    background: #151515 url(https://wallpaper-house.com/data/out/9/wallpaper2you_326641.jpg) no-repeat center center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 100vh;
+   position: relative;
+   text-align: center;
+   color: #fff;
+   display:table;
+}
+
  .img-overlay {
     position: absolute;
     top: 0;
